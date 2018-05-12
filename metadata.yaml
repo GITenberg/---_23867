@@ -1,0 +1,28 @@
+_repo: '---_23867'
+_version: 0.1.0
+alternative_title: Zhan gui zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Zhang
+    aliases:
+    - 刘章
+    - 劉璋
+    gutenberg_agent_id: '26096'
+    url: http://www.gutenberg.org/2009/agents/26096
+description: ''
+gutenberg_issued: '2007-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23867'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 斬鬼傳
+url: http://www.gutenberg.org/ebooks/23867
